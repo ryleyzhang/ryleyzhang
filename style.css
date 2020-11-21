@@ -1,11 +1,15 @@
-p2 { 
+<class>
+
+.blue { 
   color: blue;
   {
     
-p3 { 
+.red { 
   color: red;
   {
 
-p4 { 
+.green { 
   color: green;
   {
+
+</class>    
